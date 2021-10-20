@@ -7,10 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.23.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-icons": "^4.3.1",
-    "sass": "^1.43.2"
+    "sass": "^1.43.2",
+    "socket.io-client": "^4.3.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
